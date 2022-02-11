@@ -1,5 +1,5 @@
 # Zoo functions
-Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HOF's e Javascript no módulo de fundamentos. Entregue com 100% dos requisitos.
+Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HOF's e Javascript no módulo de fundamentos. Entregue com 100% dos requisitos respeitando o ESLint.
 
 ## Direitos autorais
 
